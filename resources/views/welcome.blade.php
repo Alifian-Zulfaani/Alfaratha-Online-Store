@@ -115,7 +115,7 @@
       <a href="#" class="mx-2 hover:text-black">Privacy Policy</a>
       <a href="#" class="mx-2 hover:text-black">Terms of Service</a>
     </div>
-    <p class="text-white">&copy; 2024 Alfaratha Store</p>
+    <p class="text-white">&copy; Alfaratha 2024</p>
   </footer>
 
   <script>
