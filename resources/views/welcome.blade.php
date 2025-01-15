@@ -18,7 +18,7 @@
       <a href="#about" class="text-white text-lg hover:text-yellow-600">About</a>
       <a href="#products" class="text-white text-lg hover:text-yellow-600">Products</a>
       <a href="#contact" class="text-white text-lg hover:text-yellow-600">Contact</a>
-      <a href="/admin" class="text-white text-lg hover:text-yellow-600 mt-4">Login Admin</a>
+      <a href="/admin" class="text-white text-lg hover:text-yellow-600">Login Admin</a>
     </div>
   
     <!-- Mobile Menu Button -->
